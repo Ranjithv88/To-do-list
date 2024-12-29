@@ -1,4 +1,4 @@
-# Do To List <img width="50" height="50" src="https://img.icons8.com/bubbles/100/checked-2.png" alt="checked-2"/> 
+# Do To List <img width="35" height="35" src="https://img.icons8.com/bubbles/100/checked-2.png" alt="checked-2"/> 
 This project is a static website created using HTML, CSS, and JavaScript. It is a simple Do To List,
 this data Store on the local storage, To store data permanently for You're Here Browser.
 
