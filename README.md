@@ -8,7 +8,7 @@ this data Store on the local storage, To store data permanently for You're Here 
 
 ### Sample ScreenShoot 
 ###### To Do list Page <br>
-![](https://raw.githubusercontent.com/Ranjithv88/do-to-list/refs/heads/master/Sample%20ScreenShot%20for%20Do%20To%20List%20.png)
+![](https://raw.githubusercontent.com/Ranjithv88/To-do-list/refs/heads/master/Sample%20ScreenShot%20In%20To%20Do%20List%20.png)
 
 # Run LocalHost
 
