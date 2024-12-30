@@ -1,5 +1,5 @@
 # To Do List <img width="35" height="35" src="https://img.icons8.com/bubbles/100/checked-2.png" alt="checked-2"/> 
-This project is a static website created using HTML, CSS, and JavaScript. It is a simple Do To List,
+This project is a static website created using HTML, CSS, and JavaScript. It is a simple To Do List,
 this data Store on the local storage, To store data permanently for You're Here Browser.
 
 # To Do List Sample 
@@ -7,7 +7,7 @@ this data Store on the local storage, To store data permanently for You're Here 
 <p>this project host is Github.io , this is using to host the websites for demo purpose.</p>
 
 ### Sample ScreenShoot 
-###### To Do list Page <br>
+###### Do To list Page <br>
 ![](https://raw.githubusercontent.com/Ranjithv88/To-do-list/refs/heads/master/Sample%20ScreenShot%20In%20To%20Do%20List%20.png)
 
 # Run LocalHost
